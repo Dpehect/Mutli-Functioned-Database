@@ -3,10 +3,6 @@
 
 <h2> Customer Management System - müşteri yönetim sistemi / Mernis ile TC Doğrulama </h2>
 
-<h4> SMTcoder :   Projeye yıldız Vermeyi Unutmayın  🚀 Teşekkürler! ❤️  </h4> 
-
-<br>
-
 
 MERNİS ( Kimlik Doğrulama Servisi ) Projeye Ekleme
 Üst menüden, "File - New - Project"
@@ -55,30 +51,26 @@ Kırmızı çerçeveye aldığım her şeyi aynı şekilde yazarak projenizi mer
 
 ![10](https://user-images.githubusercontent.com/74311713/117274648-eca37f80-ae65-11eb-90ad-c77bbd841354.png)
 
-<h3> <a href="https://sametakca.com/">  web sitem </a> </h3> 
  
 <br> <br>
 Sosyal Medya Hesaplarım 😛
 <br>
 
-<a href="https://www.instagram.com/smtcoder/">
+<a href="https://www.instagram.com/gurl.ekyunusemre/">
 instagram
 </a>
 <br>
 
-<a href="https://www.linkedin.com/in/samet-akca-2a4bbb1a8/">
+<a href="https://www.linkedin.com/in/yunus-emre-g%C3%BCrlek-4173a3224/">
 linkedin
 </a>
 <br>
 
-<a href="https://www.youtube.com/channel/UCZXmqpZJ3ax5Uzm0pXeVqMg">
-youtube
-</a>
 
 <br>
 
-<a href="https://play.google.com/store/apps/developer?id=Samet+Akca&gl=TR">
-Google Play uygulamalarım
+<a href="https://play.google.com/store/apps/developer?id=YunusEmre+Gurl&ek=TR">
+Google Play Hesabım
 </a>
 
 <br>
